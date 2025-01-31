@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+## My name is Shan Ibanez! 
+I'm currently studying at ODU! This is a simple README assingment for class CS-315!!!
 <!--
 **sxueibanez/sxueibanez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
